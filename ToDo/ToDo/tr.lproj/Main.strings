@@ -1,0 +1,27 @@
+
+/* Class = "UISearchBar"; placeholder = "Search ToDo"; ObjectID = "2Sq-sM-OBU"; */
+"2Sq-sM-OBU.placeholder" = "ToDo Ara";
+
+/* Class = "UINavigationItem"; title = "ToDo"; ObjectID = "66w-Zn-tel"; */
+"66w-Zn-tel.title" = "ToDo";
+
+/* Class = "UILabel"; text = "ToDo Text"; ObjectID = "7t5-cA-I5d"; */
+"7t5-cA-I5d.text" = "ToDo Text";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "DBG-Ok-Tj6"; */
+"DBG-Ok-Tj6.configuration.title" = "Kaydet";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DBG-Ok-Tj6"; */
+"DBG-Ok-Tj6.normalTitle" = "Buton";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "KIL-9q-bSD"; */
+"KIL-9q-bSD.configuration.title" = "Kaydet";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KIL-9q-bSD"; */
+"KIL-9q-bSD.normalTitle" = "Buton";
+
+/* Class = "UILabel"; text = "22.10.2021 19:38"; ObjectID = "Tfn-wh-fbp"; */
+"Tfn-wh-fbp.text" = "22.10.2021 19:38";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aZq-ZQ-3Bs"; */
+"aZq-ZQ-3Bs.normalTitle" = "Buton";
